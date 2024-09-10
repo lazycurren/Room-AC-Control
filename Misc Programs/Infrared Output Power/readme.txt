@@ -1,0 +1,1 @@
+Power the ESP32 using a micro USB cable. Use this program to tweak and control power output of IR LEDs for adequate transmission of AC remote codes.

@@ -1,0 +1,1 @@
+Power the ESP32 using a micro USB cable. This is the main program.

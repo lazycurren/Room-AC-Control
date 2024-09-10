@@ -1,0 +1,7 @@
+Board: "Arduino Mega or Mega 2560"
+
+Processor: "ATmega2560 (Mega 2560)"
+
+Programmer: "AVRISP mkII"
+
+Serial Monitor: 57600 baud

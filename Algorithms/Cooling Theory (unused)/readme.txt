@@ -1,0 +1,1 @@
+You may use temperature readings in conjunction with relative humidity data that the temperature sensor provides to create an even advanced climate control algorithm. I didn't have the time to do it and so my algorithm disregards humidity data entirely.

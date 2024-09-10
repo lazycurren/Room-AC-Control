@@ -1,0 +1,1 @@
+This folder contains information and documentation of some of the hardware that I used.
