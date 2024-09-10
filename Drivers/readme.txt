@@ -1,1 +1,1 @@
-You may or may not need these drivers depending on your hardware/software setup. Only try to install/use these if something doesn't work for you.
+You may or may not need these drivers depending on your hardware/software setup. Only try to install these if something doesn't work for you.
