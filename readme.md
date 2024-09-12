@@ -1,7 +1,7 @@
 
 ### What this is:
 
-#### A simple Arduino project using ESP32 that can be used to control Room Air Conditioners using pre recorded infrared signals from the AC unit remote control.
+#### An electronics project using ESP32 to apply a precise climate control algorithm on any Residential Air Conditioning Unit using Infrared Commnunication.
 
 ### Why it exists:
 
