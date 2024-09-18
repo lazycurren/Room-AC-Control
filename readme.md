@@ -1,7 +1,7 @@
 
 ### What this is:
 
-#### An electronics project using ESP32 to apply a sophisticated and precise climate control algorithm on any Residential Air Conditioning Unit using Infrared Commnunication.
+#### An electronics project using ESP32 to apply a sophisticated and precise climate control algorithm on any Residential Air Conditioning Unit using Infrared Communication.
 
 ### Why it exists:
 
