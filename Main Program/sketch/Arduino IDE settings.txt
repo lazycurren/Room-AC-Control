@@ -1,5 +1,5 @@
 UNDER BOARDS MANAGER:
-	INSTALL esp32 by Espressif Systems 2.0.xx ONLY e.g 2.0.17 (Not 3.x)
+	INSTALL esp32 by Espressif Systems 2.0.xx ONLY e.g 2.0.17 (Not 3.x) (Else you'll get the timerAlarm error)
 	https://github.com/espressif/arduino-esp32
 
 Board: "DOIT ESP32 DEVKIT V1"
