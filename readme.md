@@ -25,4 +25,4 @@ For years before I built and started to use this device daily, every few days du
 - 1x 128x64 4pin I2C OLED Display (For Visual Output)
 - 3x Generic Buttons (To control the Menu and feed settings into the EEPROM)
 - 4x Generic IR LEDs (For IR Output. 4 for High Output)
-- 1x BD139 (Power FET to boost current for the IR LEDs)
+- 1x BD139 (Generic Amplifying transistor for the IR LEDs)
